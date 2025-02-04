@@ -10,7 +10,7 @@ st.markdown("""
         }
         .stChatMessageUser {
             font-family: 'Courier New', monospace;
-            font-size: 16px;
+            font-size: 25px;
             color: blue;
         }
         .stChatMessageAssistant {
