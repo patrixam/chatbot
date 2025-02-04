@@ -5,7 +5,7 @@ st.markdown("""
     <style>
         .stChatMessage {
             font-family: 'Arial', sans-serif;
-            font-size: 24px;
+            font-size: 3px;
             color: #333;
         }
         .stChatMessageUser {
@@ -15,7 +15,7 @@ st.markdown("""
         }
         .stChatMessageAssistant {
             font-family: 'Verdana', sans-serif;
-            font-size: 10px;
+            font-size: 300px;
             color: green;
         }
     </style>
