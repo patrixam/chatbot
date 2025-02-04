@@ -5,12 +5,12 @@ st.markdown("""
     <style>
         .stChatMessage {
             font-family: 'Arial', sans-serif;
-            font-size: 10px;
+            font-size: 24px;
             color: #333;
         }
         .stChatMessageUser {
             font-family: 'Courier New', monospace;
-            font-size: 10px;
+            font-size: 5px;
             color: green;
         }
         .stChatMessageAssistant {
