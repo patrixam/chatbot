@@ -1,3 +1,5 @@
+import streamlit as st
+
 #BOTONES:
 if st.button("Haz clic aquí"):
    st.write("¡Botón presionado!")
