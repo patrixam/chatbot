@@ -15,7 +15,7 @@ st.markdown("""
         }
         .stChatMessageAssistant {
             font-family: 'Verdana', sans-serif;
-            font-size: 3px !important;
+            font-size: 30px !important;
             color: green;
         }
     </style>
