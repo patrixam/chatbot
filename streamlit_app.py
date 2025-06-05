@@ -50,7 +50,7 @@ if user_input:
         )
 
     # Respuesta automática del asistente
-    response = f"🤖 Respondí a: {user_input}"
+    response = f"Respondí a: {user_input}"
     st.session_state.messages.append({"role": "assistant", "content": response})
     with st.chat_message("assistant"):
         st.markdown(
